@@ -1,0 +1,19 @@
+#heading
+{
+    background-color: rgb(255, 155, 252);
+}
+
+#btn0
+{
+    background-color: rgb(228, 155, 255);
+}
+
+#btn1
+{
+    background-color: rgb(155, 222, 255);
+}
+
+#canvas
+{
+    border: 5px 5px solid white;
+}
